@@ -1,1 +1,1 @@
-const CDCA = "Crypto Devs Contract Address 0x0BC9e4616c9aEf77fe965D953148402430862A48";
+const CDCA = "Crypto Devs Contract Address 0x45f8d4bb1e0c30D65E15F6bE79Ff92B2BF524926";
