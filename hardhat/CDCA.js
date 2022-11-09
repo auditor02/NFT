@@ -1,1 +1,2 @@
 const CDCA = "Crypto Devs Contract Address 0x45f8d4bb1e0c30D65E15F6bE79Ff92B2BF524926";
+const CAOPENSEA = "Crypto Devs Contract Address: 0x7ABDDD1E76D12558392726Da8FC4F5e1FE994167";
